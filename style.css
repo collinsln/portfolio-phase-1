@@ -1,0 +1,98 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font
+}
+head{
+    color: rgb(102, 117, 117);
+}
+table{
+    width: 100%;
+    background-color: rgb(85, 82, 82);
+   
+    
+}
+caption{
+    color: rgb(60, 80, 99);
+}
+.mainTable{
+    background-color: rgb(56, 34, 34);
+    padding: 4%;
+    width: 100%;
+}
+td{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: #e2dddd9f;
+    
+}
+button:hover{
+    background-color: blanchedalmond;
+    color: rgb(228, 87, 204);
+    cursor:pointer;
+}
+.pill{
+    font-size: 12px;
+    font-family:'Readex pro',sans-serif;
+    padding: 0.5em 1em;
+    margin: 0.25em;
+    border-radius: 2em;
+    border: none;
+    outline: none;
+    background-color: rgb(154, 173, 209);
+}
+.pi{
+    size: 10px;
+    width: 20%;
+}
+.p1{
+    color: rgb(68, 65, 61);
+    background-color: rgb(187, 220, 233);
+    padding: 2%;
+   
+   width: 90%;
+   text-align: justify;}
+   .p2{
+    color: rgb(224, 220, 214);
+    background-color: rgb(69, 93, 117);
+    padding: 2%;
+   border-radius: 2em;
+   width: 90%;
+   text-align: justify;
+   }
+   .lastButton{
+    
+        border-radius: 2em;
+        background-color: rgb(142, 192, 221);
+        color: blue;
+        cursor: pointer;
+
+    
+       }
+    .p3{
+        color: rgb(68, 65, 61);
+    background-color: rgb(187, 220, 233);
+    padding: 2%;
+   
+   width: 90%;
+   text-align: justify;}
+   .p4{
+    text-align: center;
+    border-radius: 1em;
+    background-color: rgb(77, 73, 80);
+    color: aliceblue;
+   }
+   .p5{
+    color: rgb(68, 65, 61);
+    background-color: rgb(187, 220, 233);
+    padding: 2%;
+   
+   width: 90%;
+   text-align: justify;
+
+   }
+
+    }
+       
+   
